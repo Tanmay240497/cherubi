@@ -1,4 +1,4 @@
-
+asdsd
 Start Docker 
 IntelliJ (API Project)
 Git Project update (CTRL+T) (Terminal--> Git Pull)
@@ -13,3 +13,5 @@ Web Project (terminal--> npm run dev)(VS CODE)
     "stepDefinitions": "cypress/e2e/**/*.ts"
   
   }
+  
+  //second line added
