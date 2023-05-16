@@ -1,0 +1,15 @@
+
+Start Docker 
+IntelliJ (API Project)
+Git Project update (CTRL+T) (Terminal--> Git Pull)
+ABS Mock project (terminal--> npm run dev)(VS CODE) 
+Open web project 
+Terminal --> Git Pull
+Web Project (terminal--> npm run dev)(VS CODE)
+
+ 
+,
+  "cypress-cucumber-preprocessor": {
+    "stepDefinitions": "cypress/e2e/**/*.ts"
+  
+  }
