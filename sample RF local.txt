@@ -13,3 +13,5 @@ Web Project (terminal--> npm run dev)(VS CODE)
     "stepDefinitions": "cypress/e2e/**/*.ts"
   
   }
+  
+  changes added to the check reset 
